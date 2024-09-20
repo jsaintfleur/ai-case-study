@@ -40,5 +40,5 @@ AI Case Study for bootcamp assignment.
 ## Sources
 
 * [Enterprise Community Partners](https://www.enterprisecommunity.org/resources/power-innovation-building-better-more-equitable-housing-system)
-* [Microsoft AI for Nonprofits](https://techcommunity.microsoft.com/t5/nonprofit-blog/the-potential-of-ai-for-nonprofits/ba-p/3818494)
+* [Microsoft AI for Nonprofits](https://www.microsoft.com/en-us/nonprofits/empower-your-nonprofit-with-ai)
 * [Nonprofit Hub on AI Capacity Building](https://nonprofithub.org/building-ai-capacity-in-nonprofits/)
