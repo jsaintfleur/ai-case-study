@@ -66,5 +66,5 @@ As someone working with LISC, I have observed firsthand the growing impact of AI
 * [Enterprise Community Partners](https://www.enterprisecommunity.org/resources/power-innovation-building-better-more-equitable-housing-system)
 * [Microsoft AI for Nonprofits](https://www.microsoft.com/en-us/nonprofits/empower-your-nonprofit-with-ai)
 * [Nonprofit Hub on AI Capacity Building](https://nonprofithub.org/building-ai-capacity-in-nonprofits/)
-* [AI and Affordable Housing](https://www.citylab.com/life/2020/10/affordable-housing-construction-costs-technology-innovation/616671/)
-* [Harvard Joint Center for Housing Studies: AI and Housing](https://www.jchs.harvard.edu/research-areas/ai-and-housing)
+* [AI and Affordable Housing](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-022024.html)
+* [Harvard Joint Center for Housing Studies: AI and Housing](https://www.jchs.harvard.edu/research/symposia-special-projects/bringing-digitalization-home-how-can-technology-address-housing)
