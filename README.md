@@ -10,9 +10,6 @@
     * [Technological Innovations Shaping Housing](#technological-innovations-shaping-housing)
 4. [Results](#results)
 5. [Recommendations](#recommendations)
-    * [1: AI-Powered Resident Engagement Platform](#recommendation-1-ai-powered-resident-engagement-platform)
-    * [2: Enhanced Predictive Analytics for Construction Planning](#recommendation-2-enhanced-predictive-analytics-for-construction-planning)
-    * [3: AI-Driven Impact Evaluation Tools](#recommendation-3-ai-driven-impact-evaluation-tools)
 6. [Sources](#sources)
 
 ---
