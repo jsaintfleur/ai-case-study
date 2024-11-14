@@ -110,4 +110,36 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * [Nonprofit Hub on AI Capacity Building](https://nonprofithub.org/building-ai-capacity-in-nonprofits/)
 * [AI and Affordable Housing](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-022024.html)
 * [Harvard Joint Center for Housing Studies: AI and Housing](https://www.jchs.harvard.edu/research/symposia-special-projects/bringing-digitalization-home-how-can-technology-address-housing)
-* Data retrieved from the Federal Reserve Economic Data (FRED) API: https://fred.stlouisfed.org/
+
+### Federal Reserve Economic Data (FRED) Series
+
+Data for this case study includes housing and income-related series from the Federal Reserve Economic Data (FRED) API. Each series ID corresponds to a specific economic indicator:
+
+1. **Median Sales Price of Houses Sold**  
+   * **Series ID:** `MSPUS`
+   * **Description:** Tracks the median sales price for houses sold across the U.S., providing insights into housing affordability and pricing trends.
+
+2. **Real Median Household Income**  
+   * **Series ID:** `MEHOINUSA672N`
+   * **Description:** Measures the inflation-adjusted median household income, which helps gauge economic well-being and purchasing power of U.S. households.
+
+3. **Residential Mortgages and Consumer Credit as % of Disposable Income**  
+   * **Series ID:** `HCCSDODNS`
+   * **Description:** Represents the ratio of residential mortgage and consumer credit debt to disposable personal income, reflecting consumer debt levels relative to income.
+
+4. **Rental Vacancy Rate**  
+   * **Series ID:** `RRVRUSQ156N`
+   * **Description:** Indicates the rental vacancy rate across the U.S., which provides information on the availability and demand for rental housing.
+
+5. **Homeownership Rate**  
+   * **Series ID:** `RHORUSQ156N`
+   * **Description:** Tracks the percentage of occupied housing units owned by residents, offering insights into homeownership trends and housing market stability.
+
+* [Federal Reserve Economic Data (FRED) API](https://fred.stlouisfed.org/)
+---
+
+## License and Disclaimer
+
+This project is licensed under the [MIT License](LICENSE). Please note that this case study is for educational purposes only and is not affiliated with or endorsed by Enterprise Community Partners or LISC. See the [LICENSE](LICENSE) file and [DISCLAIMER](DISCLAIMER.md) for details.
+
+[🔝 Back to Top](#)
