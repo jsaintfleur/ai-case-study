@@ -1,6 +1,6 @@
 # AI Case Study: Enterprise Community Partners
 
-![images/Enterprise-Community-Partners-Logo.webp](#)
+![Enterprise Community Partners Logo](images/Enterprise-Community-Partners-Logo.webp)
 
 ## Table of Contents
 1. [Overview and Origin](#overview-and-origin)
@@ -29,7 +29,7 @@
 ### **Funding Allocation Overview**
 Enterprise strategically allocates its funds to affordable housing projects, which often include health, resilience, and economic mobility initiatives. Additional funds are used for research, capacity building, and technical assistance for local nonprofits, ensuring a comprehensive approach to community development.
 
-![images/Funding Allocation by Sector](#)
+![Funding Allocation by Sector](images/Funding-Allocation-Sector.png)
 
 ## Business Activities
 
@@ -50,6 +50,28 @@ Enterprise strategically allocates its funds to affordable housing projects, whi
 * **Business Impact:** AI has empowered Enterprise to scale operations effectively, ensuring that their resources target underserved communities efficiently. As a result, they’ve developed and preserved over 662,000 affordable homes, investing billions into community revitalization. AI-driven analysis of housing trends and needs has been pivotal in achieving these outcomes.
 * **Core Metrics:** Key metrics include the number of housing units developed, families served, and total financial investments in community projects. To date, Enterprise has invested over $53 billion, solidifying its leadership in the nonprofit housing sector.
 * **Comparison to Competitors:** Compared to organizations like LISC, Enterprise’s deep investment in AI gives them a unique advantage. While competitors also utilize data, Enterprise’s predictive capabilities enable rapid adjustments in response to market changes, improving efficiency and scalability.
+
+### **Sample Data Visualizations**
+
+**Homeownership Rate**  
+![Homeownership Rate Distribution](images/Homeownership%20Rate_distribution.png)  
+![Homeownership Rate Trend](images/Homeownership%20Rate_trend.png)
+
+**Rental Vacancy Rate**  
+![Rental Vacancy Rate Distribution](images/Rental%20Vacancy%20Rate_distribution.png)  
+![Rental Vacancy Rate Trend](images/Rental%20Vacancy%20Rate_trend.png)
+
+**Residential Mortgages and Consumer Credit as % of Disposable Income**  
+![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_distribution.png)  
+![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_trend.png)
+
+**Real Median Household Income**  
+![Real Median Household Income Distribution](images/Real%20Median%20Household%20Income_distribution.png)  
+![Real Median Household Income Trend](images/Real%20Median%20Household%20Income_trend.png)
+
+**Median Sales Price of Houses Sold**  
+![Median Sales Price of Houses Sold Distribution](images/Median%20Sales%20Price%20of%20Houses%20Sold_distribution.png)  
+![Median Sales Price of Houses Sold Trend](images/Median%20Sales%20Price%20of%20Houses%20Sold_trend.png)
 
 ## Recommendations
 
@@ -73,7 +95,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** Advanced machine learning models could analyze historical data to predict project risks. Integrated scheduling tools would provide real-time updates, enabling teams to adjust plans as needed.
 * **Appropriateness of Technologies:** Machine learning’s ability to detect patterns makes it ideal for predictive analytics in construction, ensuring efficient project execution.
 
-![Predictive Analytics in Construction Planning](#)
+![Predictive Analytics in Construction Planning](images/Predictive-Analytics-Construction-Planning.png)
 
 ### **Recommendation 3: AI-Driven Impact Evaluation Tools**
 
@@ -84,7 +106,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** AI algorithms could track metrics like income growth and employment stability, identifying patterns that contribute to positive outcomes. Machine learning could also enhance these tools by refining them over time.
 * **Appropriateness of Technologies:** AI’s analytical power makes it ideal for impact evaluation, as it can uncover correlations within large datasets, providing data-driven insights for continuous improvement.
 
-![Impact Evaluation Metrics for Housing Projects](#)
+![Impact Evaluation Metrics for Housing Projects](images/Impact-Evaluation-Metrics.png)
 
 ## Sources
 
@@ -93,4 +115,3 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * [Nonprofit Hub on AI Capacity Building](https://nonprofithub.org/building-ai-capacity-in-nonprofits/)
 * [AI and Affordable Housing](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-022024.html)
 * [Harvard Joint Center for Housing Studies: AI and Housing](https://www.jchs.harvard.edu/research/symposia-special-projects/bringing-digitalization-home-how-can-technology-address-housing)
-
