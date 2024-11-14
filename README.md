@@ -73,7 +73,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** The platform could utilize natural language processing (NLP) and machine learning algorithms. An AI chatbot could assist residents in finding financial resources or job opportunities, while machine learning refines recommendations over time.
 * **Appropriateness of Technologies:** AI’s scalability makes it ideal for managing resident data and providing real-time, personalized assistance across communities.
 
-* Data Visualization for Resident Income Trends (Real Median Household Income):*
+**Data Visualization for Resident Income Trends (Real Median Household Income):**
 
 ![Real Median Household Income Distribution](images/Real%20Median%20Household%20Income_distribution.png)
 ![Real Median Household Income Trend](images/Real%20Median%20Household%20Income_trend.png)
@@ -89,7 +89,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** Advanced machine learning models could analyze historical data to predict project risks. Integrated scheduling tools would provide real-time updates, enabling teams to adjust plans as needed.
 * **Appropriateness of Technologies:** Machine learning’s ability to detect patterns makes it ideal for predictive analytics in construction, ensuring efficient project execution.
 
-* Data Visualizations for Housing Market Trends (Median Sales Price of Houses Sold and Rental Vacancy Rate):*
+  **Data Visualizations for Housing Market Trends (Median Sales Price of Houses Sold and Rental Vacancy Rate):**
 
 ![Median Sales Price of Houses Sold Distribution](images/Median%20Sales%20Price%20of%20Houses%20Sold_distribution.png)
 ![Median Sales Price of Houses Sold Trend](images/Median%20Sales%20Price%20of%20Houses%20Sold_trend.png)
@@ -108,7 +108,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** AI algorithms could track metrics like income growth and employment stability, identifying patterns that contribute to positive outcomes. Machine learning could also enhance these tools by refining them over time.
 * **Appropriateness of Technologies:** AI’s analytical power makes it ideal for impact evaluation, as it can uncover correlations within large datasets, providing data-driven insights for continuous improvement.
 
-* Data Visualization for Mortgage and Credit Trends:*
+  **Data Visualization for Mortgage and Credit Trends:**
 
 ![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_distribution.png)
 ![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_trend.png)
