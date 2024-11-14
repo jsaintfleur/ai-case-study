@@ -67,7 +67,7 @@ Each of these areas aligns with Enterprise’s mission to foster upward mobility
 
 From my perspective at LISC, I’ve seen the positive impact AI can have in the affordable housing sector. Enterprise’s success with AI inspires us to explore similar strategies for maximizing LISC’s ability to meet housing needs.
 
-### Recommendation 1: AI-Powered Resident Engagement Platform
+### 1: AI-Powered Resident Engagement Platform
 
 * **Proposal:** Enterprise should expand its AI capabilities by developing a resident engagement platform offering financial counseling, job training, and social support.
   
@@ -83,7 +83,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 
 ---
 
-### Recommendation 2: Enhanced Predictive Analytics for Construction Planning
+### 2: Enhanced Predictive Analytics for Construction Planning
 
 * **Proposal:** Enterprise could further refine its predictive analytics for construction planning, enabling them to anticipate delays, material shortages, and budget fluctuations to keep projects on track.
   
@@ -102,7 +102,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 
 ---
 
-### Recommendation 3: AI-Driven Impact Evaluation Tools
+### 3: AI-Driven Impact Evaluation Tools
 
 * **Proposal:** Enterprise should consider using AI tools to evaluate long-term social and economic impacts, quantifying the benefits of their housing projects on residents.
   
@@ -132,26 +132,33 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 Data for this case study includes housing and income-related series from the Federal Reserve Economic Data (FRED) API. Each series ID corresponds to a specific economic indicator:
 
 1. **Median Sales Price of Houses Sold**  
-   * **Series ID:** `MSPUS`
-   * **Description:** Tracks the median sales price for houses sold across the U.S., providing insights into housing affordability and pricing trends.
+   * **Series ID:** `MSPUS`  
+   * **Description:** Tracks the median sales price for houses sold across the U.S., providing insights into housing affordability and pricing trends.  
+   * **Source:** Federal Reserve Bank of St. Louis. *Median Sales Price of Houses Sold*. FRED, Federal Reserve Bank of St. Louis, [https://fred.stlouisfed.org/series/MSPUS](https://fred.stlouisfed.org/series/MSPUS). Accessed 14 Nov. 2024.
 
 2. **Real Median Household Income**  
-   * **Series ID:** `MEHOINUSA672N`
-   * **Description:** Measures the inflation-adjusted median household income, which helps gauge economic well-being and purchasing power of U.S. households.
+   * **Series ID:** `MEHOINUSA672N`  
+   * **Description:** Measures the inflation-adjusted median household income, which helps gauge economic well-being and purchasing power of U.S. households.  
+   * **Source:** Federal Reserve Bank of St. Louis. *Real Median Household Income*. FRED, Federal Reserve Bank of St. Louis, [https://fred.stlouisfed.org/series/MEHOINUSA672N](https://fred.stlouisfed.org/series/MEHOINUSA672N). Accessed 14 Nov. 2024.
 
 3. **Residential Mortgages and Consumer Credit as % of Disposable Income**  
-   * **Series ID:** `HCCSDODNS`
-   * **Description:** Represents the ratio of residential mortgage and consumer credit debt to disposable personal income, reflecting consumer debt levels relative to income.
+   * **Series ID:** `HCCSDODNS`  
+   * **Description:** Represents the ratio of residential mortgage and consumer credit debt to disposable personal income, reflecting consumer debt levels relative to income.  
+   * **Source:** Federal Reserve Bank of St. Louis. *Residential Mortgages and Consumer Credit as % of Disposable Income*. FRED, Federal Reserve Bank of St. Louis, [https://fred.stlouisfed.org/series/HCCSDODNS](https://fred.stlouisfed.org/series/HCCSDODNS). Accessed 14 Nov. 2024.
 
 4. **Rental Vacancy Rate**  
-   * **Series ID:** `RRVRUSQ156N`
-   * **Description:** Indicates the rental vacancy rate across the U.S., which provides information on the availability and demand for rental housing.
+   * **Series ID:** `RRVRUSQ156N`  
+   * **Description:** Indicates the rental vacancy rate across the U.S., which provides information on the availability and demand for rental housing.  
+   * **Source:** Federal Reserve Bank of St. Louis. *Rental Vacancy Rate*. FRED, Federal Reserve Bank of St. Louis, [https://fred.stlouisfed.org/series/RRVRUSQ156N](https://fred.stlouisfed.org/series/RRVRUSQ156N). Accessed 14 Nov. 2024.
 
 5. **Homeownership Rate**  
-   * **Series ID:** `RHORUSQ156N`
-   * **Description:** Tracks the percentage of occupied housing units owned by residents, offering insights into homeownership trends and housing market stability.
+   * **Series ID:** `RHORUSQ156N`  
+   * **Description:** Tracks the percentage of occupied housing units owned by residents, offering insights into homeownership trends and housing market stability.  
+   * **Source:** Federal Reserve Bank of St. Louis. *Homeownership Rate*. FRED, Federal Reserve Bank of St. Louis, [https://fred.stlouisfed.org/series/RHORUSQ156N](https://fred.stlouisfed.org/series/RHORUSQ156N). Accessed 14 Nov. 2024.
 
-* [Federal Reserve Economic Data (FRED) API](https://fred.stlouisfed.org/)
+* General Source: Federal Reserve Bank of St. Louis. *Federal Reserve Economic Data (FRED) API*, [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/). Accessed 14 Nov. 2024.
+
+
 
 ---
 
