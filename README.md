@@ -41,7 +41,7 @@ Enterprise Community Partners strategically allocates funds to address multiple 
 
 Each of these areas aligns with Enterprise’s mission to foster upward mobility, providing residents not only with affordable housing but also with the resources and environment necessary for long-term stability and growth.
 
-![Funding Allocation by Sector](images/Funding_Allocation_by_Sector.png)
+![Funding Allocation by Sector](images/Funding Allocation by Sector.png)
 
 
 ## Business Activities
