@@ -9,7 +9,6 @@
 3. [Landscape](#landscape)
     * [Technological Innovations Shaping Housing](#technological-innovations-shaping-housing)
 4. [Results](#results)
-    * [Comparison of AI Utilization Across Nonprofits](#comparison-of-ai-utilization-across-nonprofits)
 5. [Recommendations](#recommendations)
     * [Recommendation 1: AI-Powered Resident Engagement Platform](#recommendation-1-ai-powered-resident-engagement-platform)
     * [Recommendation 2: Enhanced Predictive Analytics for Construction Planning](#recommendation-2-enhanced-predictive-analytics-for-construction-planning)
@@ -20,64 +19,40 @@
 
 ## Overview and Origin
 
-* **Name of Company:** Enterprise Community Partners
+* **Name of Organization:** Enterprise Community Partners
 * **Incorporation:** Founded in 1982
 * **Founders:** James Rouse and Patty Rouse
-* **How the Idea Came About:** The Rouses founded Enterprise with a mission to tackle housing inequality by creating affordable housing for underserved communities. They aimed to address housing insecurity while promoting racial and economic equity, focusing on empowering communities to achieve long-term stability.
-* **Funding and Allocation:** Enterprise, a 501(c)(3) nonprofit, is funded through philanthropic grants, corporate donations, and investments. Key partnerships, such as with the Wells Fargo Foundation, have helped raise over $53 billion, supporting extensive community and housing projects. Funds are allocated across housing construction, community development, and resident support programs, prioritizing initiatives that address both immediate needs and the long-term stability of communities.
+* **Mission and Vision:** Enterprise Community Partners was established to address housing inequality by creating affordable housing solutions for underserved communities. The founders aimed to tackle housing insecurity while promoting racial and economic equity, focusing on empowering communities to achieve long-term stability.
+* **Funding and Allocation:** As a 501(c)(3) nonprofit, Enterprise is funded through philanthropic grants, corporate donations, and investments. Key partnerships, such as with the Wells Fargo Foundation, have helped raise over $53 billion. These funds support housing construction, community development, and resident support programs, with allocations directed towards initiatives that prioritize both immediate needs and long-term community stability.
 
-### **Funding Allocation Overview**
-Enterprise strategically allocates its funds to affordable housing projects, which often include health, resilience, and economic mobility initiatives. Additional funds are used for research, capacity building, and technical assistance for local nonprofits, ensuring a comprehensive approach to community development.
-
-![Funding Allocation by Sector](images/Funding-Allocation-Sector.png)
+### Funding Allocation Overview
+Enterprise strategically allocates funds across affordable housing projects, which often include health, resilience, and economic mobility initiatives. Additional funds are used for research, capacity building, and technical assistance for local nonprofits, ensuring a holistic approach to community development.
 
 ## Business Activities
 
-* **Problem Solved:** Enterprise addresses the national affordable housing shortage, especially impacting low-income families and marginalized communities. By integrating health, resilience, and economic mobility initiatives into housing solutions, Enterprise not only provides homes but also builds sustainable, empowered communities.
-* **Target Audience and Market Size:** Enterprise’s target audience includes low-income families and marginalized communities. The need for affordable housing is vast, with over 10 million renters in the U.S. spending more than half their income on rent.
-* **Unique Solution/Unfair Advantage:** Enterprise uses AI-driven predictive analytics to forecast housing needs and optimize resource allocation, allowing them to tackle the housing crisis more proactively. Programs like the Housing Affordability Breakthrough Challenge, in partnership with Wells Fargo, exemplify their commitment to AI innovation in housing construction, financing, and other critical areas.
-* **Technologies Used:** AI, machine learning, and predictive analytics are integrated into Enterprise’s project management systems, enhancing data analysis and decision-making. These tools streamline operations, identify high-need areas, and optimize funding distribution, enabling a responsive and effective approach to affordable housing.
+* **Problem Addressed:** Enterprise tackles the national affordable housing shortage, which disproportionately affects low-income families and marginalized communities. By integrating health, resilience, and economic mobility initiatives into housing solutions, Enterprise not only provides homes but also builds sustainable, empowered communities.
+* **Target Audience and Market Size:** The organization's target audience includes low-income families and marginalized communities. The need for affordable housing is vast, with over 10 million renters in the U.S. spending more than half their income on rent.
+* **Unique Solution/Competitive Advantage:** Enterprise employs AI-driven predictive analytics to forecast housing needs and optimize resource allocation, allowing for a proactive approach to the housing crisis. Programs like the Housing Affordability Breakthrough Challenge, in partnership with Wells Fargo, exemplify their commitment to AI innovation in housing construction, financing, and other critical areas.
+* **Technologies Used:** The organization integrates AI, machine learning, and predictive analytics into its project management systems, enhancing data analysis and decision-making. These tools streamline operations, identify high-need areas, and optimize funding distribution, enabling a responsive and effective approach to affordable housing.
 
 ## Landscape
 
 * **Field:** Affordable housing and community development
-* **Major Trends (Last 5–10 Years):** The affordable housing sector has increasingly embraced technology, with innovations like AI-based urban planning, sustainable construction, and predictive models for housing demand. COVID-19 highlighted the need for data-driven responses to housing shortages, accelerating the adoption of AI across the sector.
-* **Technological Innovations Shaping Housing:** Advancements in AI-driven urban planning enable data-backed community assessments and customized planning. Sustainable construction methods, like 3D-printed structures and modular housing, provide affordable alternatives, adding flexibility to housing projects. Enterprise’s ability to integrate these technologies enhances their competitive edge.
-* **Competitors:** Major competitors include LISC (Local Initiatives Support Corporation), NeighborWorks America, and Mercy Housing. Although these nonprofits share similar goals, Enterprise’s AI-driven predictive analytics allow for more agile responses to housing crises, setting them apart in resource allocation and crisis response.
+* **Major Trends (Last 5–10 Years):** The affordable housing sector has increasingly embraced technology, with innovations like AI-based urban planning, sustainable construction, and predictive models for housing demand. The COVID-19 pandemic highlighted the need for data-driven responses to housing shortages, accelerating the adoption of AI across the sector.
+* **Technological Innovations Shaping Housing:** Recent advancements in AI-driven urban planning enable data-backed community assessments and customized planning. Sustainable construction methods, such as 3D-printed structures and modular housing, provide affordable alternatives, adding flexibility to housing projects. Enterprise's ability to integrate these technologies enhances its competitive edge.
+* **Competitors:** Major competitors include LISC (Local Initiatives Support Corporation), NeighborWorks America, and Mercy Housing. While these nonprofits share similar goals, Enterprise's AI-driven predictive analytics allow for more agile responses to housing crises, setting it apart in resource allocation and crisis response.
 
 ## Results
 
-* **Business Impact:** AI has empowered Enterprise to scale operations effectively, ensuring that their resources target underserved communities efficiently. As a result, they’ve developed and preserved over 662,000 affordable homes, investing billions into community revitalization. AI-driven analysis of housing trends and needs has been pivotal in achieving these outcomes.
+* **Business Impact:** AI has empowered Enterprise to scale operations effectively, ensuring that resources target underserved communities efficiently. As a result, the organization has developed and preserved over 662,000 affordable homes, investing billions into community revitalization. AI-driven analysis of housing trends and needs has been pivotal in achieving these outcomes.
 * **Core Metrics:** Key metrics include the number of housing units developed, families served, and total financial investments in community projects. To date, Enterprise has invested over $53 billion, solidifying its leadership in the nonprofit housing sector.
-* **Comparison to Competitors:** Compared to organizations like LISC, Enterprise’s deep investment in AI gives them a unique advantage. While competitors also utilize data, Enterprise’s predictive capabilities enable rapid adjustments in response to market changes, improving efficiency and scalability.
-
-### **Sample Data Visualizations**
-
-**Homeownership Rate**  
-![Homeownership Rate Distribution](images/Homeownership%20Rate_distribution.png)  
-![Homeownership Rate Trend](images/Homeownership%20Rate_trend.png)
-
-**Rental Vacancy Rate**  
-![Rental Vacancy Rate Distribution](images/Rental%20Vacancy%20Rate_distribution.png)  
-![Rental Vacancy Rate Trend](images/Rental%20Vacancy%20Rate_trend.png)
-
-**Residential Mortgages and Consumer Credit as % of Disposable Income**  
-![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_distribution.png)  
-![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_trend.png)
-
-**Real Median Household Income**  
-![Real Median Household Income Distribution](images/Real%20Median%20Household%20Income_distribution.png)  
-![Real Median Household Income Trend](images/Real%20Median%20Household%20Income_trend.png)
-
-**Median Sales Price of Houses Sold**  
-![Median Sales Price of Houses Sold Distribution](images/Median%20Sales%20Price%20of%20Houses%20Sold_distribution.png)  
-![Median Sales Price of Houses Sold Trend](images/Median%20Sales%20Price%20of%20Houses%20Sold_trend.png)
+* **Comparison to Competitors:** Compared to organizations like LISC, Enterprise's deep investment in AI provides a unique advantage. While competitors also utilize data, Enterprise's predictive capabilities enable rapid adjustments in response to market changes, improving efficiency and scalability.
 
 ## Recommendations
 
 From my perspective at LISC, I’ve seen the positive impact AI can have in the affordable housing sector. Enterprise’s success with AI inspires us to explore similar strategies for maximizing LISC’s ability to meet housing needs.
 
-### **Recommendation 1: AI-Powered Resident Engagement Platform**
+### Recommendation 1: AI-Powered Resident Engagement Platform
 
 * **Proposal:** Enterprise should expand its AI capabilities by developing a resident engagement platform offering financial counseling, job training, and social support.
   
@@ -86,7 +61,14 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** The platform could utilize natural language processing (NLP) and machine learning algorithms. An AI chatbot could assist residents in finding financial resources or job opportunities, while machine learning refines recommendations over time.
 * **Appropriateness of Technologies:** AI’s scalability makes it ideal for managing resident data and providing real-time, personalized assistance across communities.
 
-### **Recommendation 2: Enhanced Predictive Analytics for Construction Planning**
+* Data Visualization for Resident Income Trends (Real Median Household Income):*
+
+![Real Median Household Income Distribution](images/Real_Median_Household_Income_distribution.png)
+![Real Median Household Income Trend](images/Real_Median_Household_Income_trend.png)
+
+---
+
+### Recommendation 2: Enhanced Predictive Analytics for Construction Planning
 
 * **Proposal:** Enterprise could further refine its predictive analytics for construction planning, enabling them to anticipate delays, material shortages, and budget fluctuations to keep projects on track.
   
@@ -95,9 +77,17 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** Advanced machine learning models could analyze historical data to predict project risks. Integrated scheduling tools would provide real-time updates, enabling teams to adjust plans as needed.
 * **Appropriateness of Technologies:** Machine learning’s ability to detect patterns makes it ideal for predictive analytics in construction, ensuring efficient project execution.
 
-![Predictive Analytics in Construction Planning](images/Predictive-Analytics-Construction-Planning.png)
+* Data Visualizations for Housing Market Trends (Median Sales Price of Houses Sold and Rental Vacancy Rate):*
 
-### **Recommendation 3: AI-Driven Impact Evaluation Tools**
+![Median Sales Price of Houses Sold Distribution](images/Median_Sales_Price_of_Houses_Sold_distribution.png)
+![Median Sales Price of Houses Sold Trend](images/Median_Sales_Price_of_Houses_Sold_trend.png)
+
+![Rental Vacancy Rate Distribution](images/Rental_Vacancy_Rate_distribution.png)
+![Rental Vacancy Rate Trend](images/Rental_Vacancy_Rate_trend.png)
+
+---
+
+### Recommendation 3: AI-Driven Impact Evaluation Tools
 
 * **Proposal:** Enterprise should consider using AI tools to evaluate long-term social and economic impacts, quantifying the benefits of their housing projects on residents.
   
@@ -106,7 +96,12 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** AI algorithms could track metrics like income growth and employment stability, identifying patterns that contribute to positive outcomes. Machine learning could also enhance these tools by refining them over time.
 * **Appropriateness of Technologies:** AI’s analytical power makes it ideal for impact evaluation, as it can uncover correlations within large datasets, providing data-driven insights for continuous improvement.
 
-![Impact Evaluation Metrics for Housing Projects](images/Impact-Evaluation-Metrics.png)
+* Data Visualization for Mortgage and Credit Trends:*
+
+![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential_Mortgages_and_Consumer_Credit_as_Percentage_of_Disposable_Income_distribution.png)
+![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential_Mortgages_and_Consumer_Credit_as_Percentage_of_Disposable_Income_trend.png)
+
+---
 
 ## Sources
 
@@ -115,3 +110,4 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * [Nonprofit Hub on AI Capacity Building](https://nonprofithub.org/building-ai-capacity-in-nonprofits/)
 * [AI and Affordable Housing](https://www.huduser.gov/portal/pdredge/pdr-edge-featd-article-022024.html)
 * [Harvard Joint Center for Housing Studies: AI and Housing](https://www.jchs.harvard.edu/research/symposia-special-projects/bringing-digitalization-home-how-can-technology-address-housing)
+* Data retrieved from the Federal Reserve Economic Data (FRED) API: https://fred.stlouisfed.org/
