@@ -113,8 +113,9 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 
 * Data Visualization for Mortgage and Credit Trends:*
 
-![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20Percentage%20of%20Disposable%20Income_distribution.png)
-![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20Percentage%20of%20Disposable%20Income_trend.png)
+![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_distribution.png)
+![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20%25%20of%20Disposable%20Income_trend.png)
+
 
 ---
 
