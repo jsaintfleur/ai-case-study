@@ -26,7 +26,23 @@
 * **Funding and Allocation:** As a 501(c)(3) nonprofit, Enterprise is funded through philanthropic grants, corporate donations, and investments. Key partnerships, such as with the Wells Fargo Foundation, have helped raise over $53 billion. These funds support housing construction, community development, and resident support programs, with allocations directed towards initiatives that prioritize both immediate needs and long-term community stability.
 
 ### Funding Allocation Overview
-Enterprise strategically allocates funds across affordable housing projects, which often include health, resilience, and economic mobility initiatives. Additional funds are used for research, capacity building, and technical assistance for local nonprofits, ensuring a holistic approach to community development.
+
+Enterprise Community Partners strategically allocates funds to address multiple facets of housing and community needs, ensuring that resources go beyond just creating housing units. This holistic approach includes investments in areas like health, resilience, and economic mobility, as illustrated in the image below. These focus areas collectively support the upward mobility of individuals and communities, targeting the root causes of housing instability and promoting long-term security and prosperity.
+
+1. **Housing Stability**: Funding is directed toward projects that help residents avoid unwanted moves and disruptions, contributing to a stable living environment that allows individuals and families to thrive without the stress of constant relocation.
+
+2. **Housing Quality**: Enterprise invests in housing projects that emphasize quality, ensuring that residences are not only affordable but also safe, sanitary, and conducive to physical and mental well-being. This focus promotes better health outcomes and higher quality of life for residents.
+
+3. **Housing Affordability**: Affordability remains a cornerstone of Enterprise’s funding strategy. Projects are selected based on their ability to provide housing that is financially accessible, reducing the burden on low-income households and preventing homelessness.
+
+4. **Neighborhood Context**: Enterprise also considers the broader community in which housing projects are developed. Investments are made to enhance neighborhood amenities, accessibility, and safety, giving residents an environment that supports their ability to thrive and grow.
+
+5. **Housing that Builds Assets and Wealth**: By creating pathways to homeownership and financial literacy, Enterprise empowers residents to build assets and accumulate wealth, contributing to their long-term economic security. This focus on asset-building aligns with the organization’s goal of promoting economic mobility.
+
+Each of these areas aligns with Enterprise’s mission to foster upward mobility, providing residents not only with affordable housing but also with the resources and environment necessary for long-term stability and growth.
+
+![Funding Allocation by Sector](images/Funding_Allocation_by_Sector.png)
+
 
 ## Business Activities
 
