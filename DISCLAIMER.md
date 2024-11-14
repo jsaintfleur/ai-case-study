@@ -1,0 +1,3 @@
+# Disclaimer
+
+This project is intended solely for educational purposes. The analysis and recommendations contained in this case study are based on publicly available information and personal research. I am not affiliated with, nor do I represent, Enterprise Community Partners or Local Initiatives Support Corporation (LISC) in any official capacity. Any views, insights, or interpretations expressed here are entirely my own and do not reflect the opinions or policies of either Enterprise Community Partners or LISC. This work should not be used as a substitute for professional advice or as a definitive source on the operations, policies, or strategic objectives of these organizations.
