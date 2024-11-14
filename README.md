@@ -14,8 +14,7 @@
     * [Recommendation 1: AI-Powered Resident Engagement Platform](#recommendation-1-ai-powered-resident-engagement-platform)
     * [Recommendation 2: Enhanced Predictive Analytics for Construction Planning](#recommendation-2-enhanced-predictive-analytics-for-construction-planning)
     * [Recommendation 3: AI-Driven Impact Evaluation Tools](#recommendation-3-ai-driven-impact-evaluation-tools)
-6. [Presentation Enhancements](#presentation-enhancements)
-7. [Sources](#sources)
+6. [Sources](#sources)
 
 ---
 
