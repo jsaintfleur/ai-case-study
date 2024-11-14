@@ -43,8 +43,6 @@ Each of these areas aligns with Enterprise’s mission to foster upward mobility
 
 ![Funding Allocation by Sector](images/Funding%20Allocation%20by%20Sector.png)
 
-
-
 ## Business Activities
 
 * **Problem Addressed:** Enterprise tackles the national affordable housing shortage, which disproportionately affects low-income families and marginalized communities. By integrating health, resilience, and economic mobility initiatives into housing solutions, Enterprise not only provides homes but also builds sustainable, empowered communities.
@@ -80,8 +78,8 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 
 * Data Visualization for Resident Income Trends (Real Median Household Income):*
 
-![Real Median Household Income Distribution](images/Real_Median_Household_Income_distribution.png)
-![Real Median Household Income Trend](images/Real_Median_Household_Income_trend.png)
+![Real Median Household Income Distribution](images/Real%20Median%20Household%20Income_distribution.png)
+![Real Median Household Income Trend](images/Real%20Median%20Household%20Income_trend.png)
 
 ---
 
@@ -96,11 +94,11 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 
 * Data Visualizations for Housing Market Trends (Median Sales Price of Houses Sold and Rental Vacancy Rate):*
 
-![Median Sales Price of Houses Sold Distribution](images/Median_Sales_Price_of_Houses_Sold_distribution.png)
-![Median Sales Price of Houses Sold Trend](images/Median_Sales_Price_of_Houses_Sold_trend.png)
+![Median Sales Price of Houses Sold Distribution](images/Median%20Sales%20Price%20of%20Houses%20Sold_distribution.png)
+![Median Sales Price of Houses Sold Trend](images/Median%20Sales%20Price%20of%20Houses%20Sold_trend.png)
 
-![Rental Vacancy Rate Distribution](images/Rental_Vacancy_Rate_distribution.png)
-![Rental Vacancy Rate Trend](images/Rental_Vacancy_Rate_trend.png)
+![Rental Vacancy Rate Distribution](images/Rental%20Vacancy%20Rate_distribution.png)
+![Rental Vacancy Rate Trend](images/Rental%20Vacancy%20Rate_trend.png)
 
 ---
 
@@ -115,8 +113,8 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 
 * Data Visualization for Mortgage and Credit Trends:*
 
-![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential_Mortgages_and_Consumer_Credit_as_Percentage_of_Disposable_Income_distribution.png)
-![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential_Mortgages_and_Consumer_Credit_as_Percentage_of_Disposable_Income_trend.png)
+![Residential Mortgages and Consumer Credit as % of Disposable Income Distribution](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20Percentage%20of%20Disposable%20Income_distribution.png)
+![Residential Mortgages and Consumer Credit as % of Disposable Income Trend](images/Residential%20Mortgages%20and%20Consumer%20Credit%20as%20Percentage%20of%20Disposable%20Income_trend.png)
 
 ---
 
@@ -153,6 +151,7 @@ Data for this case study includes housing and income-related series from the Fed
    * **Description:** Tracks the percentage of occupied housing units owned by residents, offering insights into homeownership trends and housing market stability.
 
 * [Federal Reserve Economic Data (FRED) API](https://fred.stlouisfed.org/)
+
 ---
 
 ## License and Disclaimer
