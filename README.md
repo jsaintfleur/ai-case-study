@@ -89,6 +89,7 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Technologies Utilized:** Advanced machine learning models could analyze historical data to predict project risks. Integrated scheduling tools would provide real-time updates, enabling teams to adjust plans as needed.
 * **Appropriateness of Technologies:** Machine learning’s ability to detect patterns makes it ideal for predictive analytics in construction, ensuring efficient project execution.
 
+---
   **Data Visualizations for Housing Market Trends (Median Sales Price of Houses Sold and Rental Vacancy Rate):**
 
 ![Median Sales Price of Houses Sold Distribution](images/Median%20Sales%20Price%20of%20Houses%20Sold_distribution.png)
@@ -107,6 +108,8 @@ From my perspective at LISC, I’ve seen the positive impact AI can have in the 
 * **Challenges:** Consistent data collection and privacy protection are essential, especially when tracking sensitive resident data. The cost and infrastructure needed to support continuous data processing should also be considered.
 * **Technologies Utilized:** AI algorithms could track metrics like income growth and employment stability, identifying patterns that contribute to positive outcomes. Machine learning could also enhance these tools by refining them over time.
 * **Appropriateness of Technologies:** AI’s analytical power makes it ideal for impact evaluation, as it can uncover correlations within large datasets, providing data-driven insights for continuous improvement.
+
+---
 
   **Data Visualization for Mortgage and Credit Trends:**
 
